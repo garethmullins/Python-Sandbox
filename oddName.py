@@ -5,4 +5,4 @@ temp = 0
 for i in name:
     temp += 1
     if temp % 2 == 1:
-    print(i, end=" ")
+        print(i, end=" ")
